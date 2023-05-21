@@ -1,2 +1,3 @@
-# movie_recommendation_system
-This movie recommendation system project utilizes a content filtering algorithm to provide personalized movie recommendations to users. The system analyzes the content of movies, such as genre, crew, actors, and director, to identify similarities and patterns. 
+# Movie_Recommendation_System_using_Content_Filtering_Algorithm
+This movie recommendation system project utilizes a content filtering algorithm to provide personalized movie recommendations to users. The system analyzes the content of movies, such as genre, crew, actors, and director, to identify similarities and patterns. By considering the user's preferences and previously watched movies, it suggests movies that match their interests and preferences.
+The recommendation system employs a content-based filtering approach, which means that it focuses on the characteristics and attributes of movies rather than relying on user behavior or collaborative filtering. The algorithm extracts relevant features from the movie dataset and creates a profile for each user based on their preferences.
